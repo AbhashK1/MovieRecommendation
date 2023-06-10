@@ -1,2 +1,2 @@
 # MovieRecommendation
-Simple Movie Recommendation System that recommends movie based on emotions by webscraping through BeautifulSoup in Python
+MovieRecommendation System made in Python using BeautifulSoup, Request, & NumPy utilising Web-Scraping Technique 
